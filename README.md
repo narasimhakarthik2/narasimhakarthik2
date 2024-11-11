@@ -7,7 +7,10 @@
 - 🔭 Full Stack Developer with expertise in Java, Spring Boot, and React
 - 🌱 Passionate about building scalable backend systems and intuitive user interfaces
 - 💼 Currently exploring Go, gRPC, Kafka, and React for next-gen projects
-- 🔭 I’m currently working on [Live Sports Analytics Platform](https://github.com/narasimhakarthik2/Sports-Score-Streaming-Platform)
+- 🔭 I’m currently working on
+- [Multi-agent LLM](https://github.com/narasimhakarthik2/smart-retail-bookstore)
+- [Computer vision projects](https://github.com/narasimhakarthik2/Computer-Vision)
+- [Live Sports Analytics Platform](https://github.com/narasimhakarthik2/Sports-Score-Streaming-Platform)
 - 📫 How to reach me **narasimhakarthik2@gmail.com**
 - 🎮 I love playing e-sports, going on bike rides, and hiking through nature trails!
 
