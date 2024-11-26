@@ -9,6 +9,7 @@
 - 💼 Currently exploring Go, gRPC, Kafka, and React for next-gen projects
 - 🔭 I’m currently working on
 - [Multi-agent LLM](https://github.com/narasimhakarthik2/smart-retail-bookstore)
+- [Ping Pong Vision: Real time table-tennis analysis system](https://github.com/narasimhakarthik2/Ping-Pong-Vision)
 - [Computer vision projects](https://github.com/narasimhakarthik2/Computer-Vision)
 - [Live Sports Analytics Platform](https://github.com/narasimhakarthik2/Sports-Score-Streaming-Platform)
 - 📫 How to reach me **narasimhakarthik2@gmail.com**
